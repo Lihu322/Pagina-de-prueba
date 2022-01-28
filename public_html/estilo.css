@@ -1,0 +1,64 @@
+header, footer 
+{background-color: red;
+
+
+
+
+
+}
+
+
+footer{
+    
+    height: 70px
+    
+    
+}
+
+h1{
+    
+    color: white;
+   text-align: center;
+   
+}
+
+.Derecha, .Izquierda {
+    
+    border: solid black 5px;
+    width: 48%;
+    height: 380px;
+    
+    
+    
+}
+
+div.Derecha{
+    
+    float: right;
+    
+}
+
+div.Izquierda{
+    
+    float: left;
+}
+
+
+
+main {
+    
+    height: 400px;
+}
+
+h4{
+    
+    text-align: center;
+    text-decoration: underline;
+    color: darkgrey;
+}
+
+.registro{
+    
+    float: right;
+}
+

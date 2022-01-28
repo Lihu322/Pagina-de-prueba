@@ -1,0 +1,23 @@
+Tipos de datos
+
+Los principales tipos de datos son los siguientes:
+
+
+bullet
+String: representa palabras. Es utilizada cada vez que necesitamos almacenar un texto o conjunto de caracteres.
+
+
+bullet
+bool: puede tomar solamente los valores True (verdadero) o False (falso).
+
+
+bullet
+int: este tipo de datos se utiliza cuando queremos almacenar un número entero, es decir, sin decimales. Por ejemplo, 10 sería un valor de este tipo.
+
+
+bullet
+float: Permite almacenar números con decimales. El número 12.25 sería de tipo float.
+
+
+bullet
+double: De la misma manera que float, permite manipular números con decimales. La diferencia es la precisión. Si necesitamos manipular números con muchos decimales, entonces debemos utilizar double.
